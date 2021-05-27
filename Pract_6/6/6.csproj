@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_6</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibrary5">
+      <HintPath>bin\Debug\netcoreapp3.1\ClassLibrary5.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
